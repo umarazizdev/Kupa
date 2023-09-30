@@ -38,6 +38,6 @@ List Prod1 = [
           "Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit, which is usually dried and used as a spice and seasoning. The same fruit is also used to produce white pepper and green pepper.",
       name: "yellow Peper with extra Beef",
       image:
-          "https://nanzaozhinan.com/wp-content/uploads/2021/08/chow-mein-cup-full-of-kale-feature.jpg",
+          "https://www.munatycooking.com/wp-content/uploads/2023/07/Pepper-steak-feature-image-2023-500x375.jpg",
       price: "\$${24.99}"),
 ];
