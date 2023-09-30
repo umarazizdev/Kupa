@@ -1,4 +1,4 @@
-# Konstructora
+# Kupa
 
 Welcome to the Kupa App UI Design repository! This project features a beautiful and attractive UI design for a food menu with detailed screens.
 
