@@ -15,9 +15,9 @@ The Fast Food Menu App is designed to provide users with a delightful experience
 
 ## Screenshots
 
-![Home Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/Screenshot1.jpg)
-![Menu Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/Screenshot2.jpg)
-![Detail Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/Screenshot3.jpg)
+![Home Screen](https://github.com/umarazizdev/Kupa/blob/main/assets/1.jpg)
+![Menu Screen](https://github.com/umarazizdev/Kupa/blob/main/assets/2.jpg)
+![Detail Screen](https://github.com/umarazizdev/Kupa/blob/main/assets/3.jpg)
 
 ## Getting Started
 
