@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:kupa/Models/homemodel.dart';
-import 'package:kupa/Utilities/colors.dart';
-import 'package:kupa/Utilities/constant.dart';
+import 'package:menu/Models/homemodel.dart';
+import 'package:menu/Utilities/colors.dart';
+import 'package:menu/Utilities/constant.dart';
 
 class DetailScreen extends StatefulWidget {
   final ProdInfo details;

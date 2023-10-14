@@ -2,7 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:kupa/screens/screens.dart';
+import 'package:menu/screens/screens.dart';
 
 final box = GetStorage();
 
@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         // or simply save your changes to "hot reload" in a Flutter IDE).
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.lightBlue,
       ),
       home: const Screens(),
       builder: EasyLoading.init(),

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kupa/Models/cartmodel.dart';
+import 'package:menu/Models/cartmodel.dart';
 
 import '../Utilities/colors.dart';
 import '../Utilities/constant.dart';
