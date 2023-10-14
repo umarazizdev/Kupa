@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kupa/Models/homemodel.dart';
-import 'package:kupa/screens/detailscreen.dart';
+import 'package:menu/Models/homemodel.dart';
+import 'package:menu/screens/detailscreen.dart';
 
 import '../Utilities/colors.dart';
 import '../Utilities/constant.dart';

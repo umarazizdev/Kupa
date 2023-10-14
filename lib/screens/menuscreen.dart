@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:kupa/Models/cartmodel.dart';
-import 'package:kupa/Utilities/constant.dart';
-import 'package:kupa/screens/menudetailscreen.dart';
+import 'package:menu/Models/cartmodel.dart';
+import 'package:menu/Utilities/constant.dart';
+import 'package:menu/screens/menudetailscreen.dart';
 
 import '../Utilities/colors.dart';
 

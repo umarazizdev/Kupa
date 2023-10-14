@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kupa/Utilities/colors.dart';
-import 'package:kupa/Utilities/constant.dart';
+import 'package:menu/Utilities/colors.dart';
+import 'package:menu/Utilities/constant.dart';
 
 class CartScreen extends StatefulWidget {
   const CartScreen({super.key});

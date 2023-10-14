@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kupa/Utilities/colors.dart';
-import 'package:kupa/screens/cartscreen.dart';
-import 'package:kupa/screens/homescreen.dart';
-import 'package:kupa/screens/menuscreen.dart';
-import 'package:kupa/screens/profilescreen.dart';
+import 'package:menu/Utilities/colors.dart';
+import 'package:menu/screens/cartscreen.dart';
+import 'package:menu/screens/homescreen.dart';
+import 'package:menu/screens/menuscreen.dart';
+import 'package:menu/screens/profilescreen.dart';
 
 class Screens extends StatefulWidget {
   const Screens({super.key});
